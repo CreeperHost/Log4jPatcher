@@ -10,4 +10,12 @@ This agent employs 2 patches:
 
 
 ### To use
+Download the latest release available from GitHub:
+https://github.com/CreeperHost/Log4jPatcher/releases
+
 Add `-javaagent:Log4jPatcher.jar` as a JVM argument.
+
+For Minecraft users:
+The full path to the jar needs to be added in the above argument unless the jar is put into the instance (or .minecraft) folder.
+This jar does not go into the mods folder.
+
