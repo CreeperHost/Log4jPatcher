@@ -20,4 +20,5 @@ The full path to the jar needs to be added in the above argument unless the jar 
 This jar does not go into the mods folder.
 
 You can find a guide for Minecraft here:
+
 https://www.creeperhost.net/wiki/books/minecraft-java-edition/page/mitigating-cve-2021-44228-in-minecraft
