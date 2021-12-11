@@ -39,5 +39,6 @@ shadowJar {
     manifest {
         attributes 'Premain-Class': 'net.creeperhost.log4jpatcher.Main'
     }
+    exclude '**/module-info.class'
     relocate 'org/objectweb', 'net/creeperhost/repack/org/objectweb'
 }
